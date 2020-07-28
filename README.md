@@ -1,0 +1,2 @@
+# CryptoAnalyser
+Crypto portfolio manager
